@@ -1,0 +1,45 @@
+[2023-05-02 12:21:20] [ERROR] >>>  Main program error:
+[2023-05-02 12:21:20] [ERROR] >>>  'NoneType' object is not subscriptable
+[2023-05-02 12:21:20] [ERROR] >>>  Traceback (most recent call last):
+  File "C:\编程项目\安全答题、自查程序\Selfcheck.py", line 292, in <module>
+    确认组织机构()
+  File "C:\编程项目\安全答题、自查程序\Selfcheck.py", line 30, in 确认组织机构
+    hW_lClick(int(down[0]), int(down[1]), jobHwnd)  # 下拉菜单
+TypeError: 'NoneType' object is not subscriptable
+
+[2023-05-02 12:21:21] [ERROR] >>>  Main program error:
+[2023-05-02 12:21:21] [ERROR] >>>  'NoneType' object is not subscriptable
+[2023-05-02 12:21:21] [ERROR] >>>  Traceback (most recent call last):
+  File "C:\编程项目\安全答题、自查程序\Selfcheck.py", line 292, in <module>
+    确认组织机构()
+  File "C:\编程项目\安全答题、自查程序\Selfcheck.py", line 30, in 确认组织机构
+    hW_lClick(int(down[0]), int(down[1]), jobHwnd)  # 下拉菜单
+TypeError: 'NoneType' object is not subscriptable
+
+[2023-05-02 12:21:21] [ERROR] >>>  Main program error:
+[2023-05-02 12:21:21] [ERROR] >>>  'NoneType' object is not subscriptable
+[2023-05-02 12:21:21] [ERROR] >>>  Traceback (most recent call last):
+  File "C:\编程项目\安全答题、自查程序\Selfcheck.py", line 292, in <module>
+    确认组织机构()
+  File "C:\编程项目\安全答题、自查程序\Selfcheck.py", line 30, in 确认组织机构
+    hW_lClick(int(down[0]), int(down[1]), jobHwnd)  # 下拉菜单
+TypeError: 'NoneType' object is not subscriptable
+
+[2023-05-02 12:21:22] [ERROR] >>>  Main program error:
+[2023-05-02 12:21:22] [ERROR] >>>  'NoneType' object is not subscriptable
+[2023-05-02 12:21:22] [ERROR] >>>  Traceback (most recent call last):
+  File "C:\编程项目\安全答题、自查程序\Selfcheck.py", line 292, in <module>
+    确认组织机构()
+  File "C:\编程项目\安全答题、自查程序\Selfcheck.py", line 30, in 确认组织机构
+    hW_lClick(int(down[0]), int(down[1]), jobHwnd)  # 下拉菜单
+TypeError: 'NoneType' object is not subscriptable
+
+[2023-05-02 12:21:23] [ERROR] >>>  Main program error:
+[2023-05-02 12:21:23] [ERROR] >>>  'NoneType' object is not subscriptable
+[2023-05-02 12:21:23] [ERROR] >>>  Traceback (most recent call last):
+  File "C:\编程项目\安全答题、自查程序\Selfcheck.py", line 292, in <module>
+    确认组织机构()
+  File "C:\编程项目\安全答题、自查程序\Selfcheck.py", line 30, in 确认组织机构
+    hW_lClick(int(down[0]), int(down[1]), jobHwnd)  # 下拉菜单
+TypeError: 'NoneType' object is not subscriptable
+

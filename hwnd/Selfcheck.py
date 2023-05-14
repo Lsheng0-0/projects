@@ -7,13 +7,13 @@ from time import sleep
 import Lshengpackage.Entry
 import win32gui
 from Lshengpackage import find_image
-from mock import tiTget_hwnd, getSpecifiedHwnd, hW_lClick, screenHwnd, screenTopHwnd, getChildHwnd, \
-    hide_Hwnd, show_Hwnd, Top_loading, hW_press, back_loading
+from hwnd.mock import tiTget_hwnd, getSpecifiedHwnd, hW_lClick, screenHwnd, screenTopHwnd, getChildHwnd, \
+    show_Hwnd, Top_loading, hW_press, back_loading
 
 
 # 钉钉初始化
 def initialization():
-    os.startfile('钉钉.lnk')
+    os.startfile('../钉钉.lnk')
 
 
 def 确认组织机构():
@@ -283,7 +283,7 @@ if __name__ == '__main__':
     while True:
         # 引入日志
         logging.basicConfig(
-            filename='log_record.txt',
+            filename='../log_record.txt',
             level=logging.DEBUG, filemode='w', format='[%(asctime)s] [%(levelname)s] >>>  %(message)s',
             datefmt='%Y-%m-%d %I:%M:%S'
             )
